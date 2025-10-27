@@ -28,9 +28,8 @@ A Manual Testing project focused on testing features of an online Electronics Sh
 - Improved application stability by validating all core user journeys  
 
 ## Author
-Prepared by-SAMIKSHA SANTOSH BALGUDE- MANUAL TESTER
-Manual Testing Fresher 
-Mail: balgudesamiksha72@gmail.com
+Prepared by-SAMIKSHA SANTOSH BALGUDE- MANUAL TESTING FRESHER  
+Mail ID: balgudesamiksha72@gmail.com
 
 ## Notes
 - All documents are clear and organized
