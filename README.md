@@ -20,8 +20,8 @@ A Manual Testing project focused on testing features of an online Electronics Sh
 
 ## Tasks Performed
 
--Prepared and executed 60+ comprehensive test scenarios ensuring full coverage of functional requirements
--Reported and tracked 8 valid defects with correct severity and priority categorization
+-Prepared and executed 60+ comprehensive test scenarios ensuring full coverage of functional requirements  
+-Reported and tracked 8 valid defects with correct severity and priority categorization  
 -Performed System Testing to validate the end-to-end functionality of the application
 
 ## Results
