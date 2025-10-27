@@ -29,7 +29,7 @@ A Manual Testing project focused on testing features of an online Electronics Sh
 
 ## Author
 Prepared by-SAMIKSHA SANTOSH BALGUDE- MANUAL TESTER
-Manual Testing Fresher | Software QA Enthusiast  
+Manual Testing Fresher 
 Mail: balgudesamiksha72@gmail.com
 
 ## Notes
