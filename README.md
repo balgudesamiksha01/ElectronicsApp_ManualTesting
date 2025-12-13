@@ -7,12 +7,13 @@ A Manual Testing project focused on testing features of an online Electronics Sh
 - Module Tested: Registration, Login, Categories, Products & Cart, Checkout, Contact us 
 - Test Type: Functional, Validation, Integration & System Testing
 - Operating System: Windows 10
-- Browsers: Chrome, Microsoft Edge
+- Browsers: Chrome
 - Tools: Excel, Word
 
 ## Deliverables
 - Test Plan (`.docx`)
-- Test scenarios (`.xlsx`)
+- Requirements (`.xlsx`)
+- RTM (`.xlsx`)
 - Test Data (`.xlsx`)
 - Test Case Sheet (`.xlsx`)
 - Test Execution Report (`.xlsx`)  
