@@ -13,15 +13,13 @@ This project involves manual testing of an Electronics Shopping Web App, where u
 4. Testing Type
 •	Functional Testing
 •	Validation Testing
-•	Integration Testing
 •	System Testing
 5. Tools Used
-•	Microsoft Excel – For Requirements, RTM, writing test cases and tracking execution status
+•	Microsoft Excel – For RTM, writing test cases,test data and tracking execution status
 •	Microsoft Word – For Test Plan and Summary Report documentation
 •	Google Chrome & Microsoft Edge – For testing the web app
 6. Test Artifacts
 •	Test Plan
-•	Requirements
 •	RTM Document
 •	Test Cases
 •	Test Data
